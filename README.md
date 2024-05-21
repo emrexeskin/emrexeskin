@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from Turkey Istanbul</h3>
+<h1>Hi 👋, I'm Emre</h1>
+<h3>A passionate frontend developer from Turkey Istanbul</h3>
 
 👨‍💻 You can check out my portfolio for more information [https://emrekeskin.vercel.app/](https://emrekeskin.vercel.app/)
 
